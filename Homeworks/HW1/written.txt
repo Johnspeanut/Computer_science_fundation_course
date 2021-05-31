@@ -1,0 +1,31 @@
+Student name: Qiong Peng
+CS5001 Section 4; 2020 Fall
+Instructor: Dr.Abi
+Homework 1 Written component
+
+Question 1
+a) float
+b) int
+c) int
+d) bool
+e) str
+f) float
+g) str
+h) int
+
+Question 2
+a) 1.4
+b) 1.4
+c) 1
+d) 4
+e) 36
+f) 0
+g) "red1234"
+h) "yellowyellow"
+
+Question 3
+hello is different from "hello". "hello"s in the first and second lines are strings while hello in the third line is a variable. 
+But we do not define the hello variable before we print it. As a result, we get an error when running print(hello). 
+
+Question 4
+The answer is 9. 
